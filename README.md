@@ -1,6 +1,5 @@
 ## MACS: LLM-Enhanced Multi-AUV Collaborative Search Scheme via Multi-agent Reinforcement Learning Approach
 
-*Peijun Dong, Hanjiang Luo, Hang Tao, Wei Shi, Jingjing Wang, Jiehan Zhou*
 
 #### Abstract
 
